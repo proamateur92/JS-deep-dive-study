@@ -1,5 +1,5 @@
 모던 자바스크립트 Deep Dive
-![image](https://github.com/proamateur92/JS-deep-dive-study/assets/68406448/0abf4dfe-000b-4539-9e90-72a5a0edff5b)
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/107309247/218252012-c0faca45-b316-4acb-8d88-852f8954f8ae.png" width="451" height="551">
 
 
 💭깃헙
@@ -8,6 +8,7 @@
 진행방식
 💻주차 별 챕터 학습 내용 발표, 질의응답
 🎈이슈를 통해 코멘트 피드백
+
 
 
 md, 블로그, 노션, ppt 등의 발표자료를 준비해주세요.
